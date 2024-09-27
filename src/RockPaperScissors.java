@@ -14,7 +14,7 @@ public class RockPaperScissors {
 
         boolean isDraw = true;
         while (isDraw) {
-
+            System.out.println("Hello! Let's play!");
             System.out.print("Choose [r]ock, [p]aper, or [s]cissors: ");
             String playerMove = scanner.nextLine();
 
