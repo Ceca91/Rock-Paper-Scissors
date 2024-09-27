@@ -52,7 +52,7 @@ public class RockPaperScissors {
                 System.out.println("You lost!");
                 isDraw = false;
             } else {
-                System.out.println("This game was a draw! Try again!");
+                System.out.println("This game was a draw! Let's play again!");
             }
         }
 
